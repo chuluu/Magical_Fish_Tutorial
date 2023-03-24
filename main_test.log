@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  24 MAR 2023 12:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 23.1) (preloaded format=pdflatex 2023.3.24)  24 MAR 2023 13:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -140,11 +140,7 @@ tex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count272
 \l__pdf_internal_box=\box55
-) (main_test.aux
-
-LaTeX Warning: Label `table:1' multiply defined.
-
-)
+) (main_test.aux)
 \openout1 = `main_test.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
@@ -198,11 +194,15 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 13.
 (C:\Users\mbluu\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-[1
+(main_test.toc)
+\tf@toc=\write3
+\openout3 = `main_test.toc'.
+
+ [1
 
 {C:/Users/mbluu/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (math.tex) (
 floats.tex
-<figures//sea_otters_holding_hands_by_ken_conger.jpg, id=11, 192.72pt x 154.176
+<figures//sea_otters_holding_hands_by_ken_conger.jpg, id=13, 192.72pt x 154.176
 pt>
 File: figures//sea_otters_holding_hands_by_ken_conger.jpg Graphic file (type jp
 g)
@@ -210,37 +210,34 @@ g)
 Package pdftex.def Info: figures//sea_otters_holding_hands_by_ken_conger.jpg  u
 sed on input line 6.
 (pdftex.def)             Requested size: 251.9989pt x 201.59795pt.
- [2 <./figures//sea_otters_holding_hands_by_ken_conger.jpg>])
-(main_test.bbl) [3] (main_test.aux)
-
-LaTeX Warning: There were multiply-defined labels.
-
- ) 
+ [2 <./figures//sea_otters_holding_hands_by_ken_conger.jpg>]) (main_test.bbl) [
+3] (main_test.aux) ) 
 Here is how much of TeX's memory you used:
- 2683 strings out of 476339
- 40662 string characters out of 5788119
+ 2691 strings out of 476339
+ 40923 string characters out of 5788119
  1859340 words of memory out of 5000000
- 23086 multiletter control sequences out of 15000+600000
- 522597 words of font info for 71 fonts, out of 8000000 for 9000
+ 23090 multiletter control sequences out of 15000+600000
+ 522905 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,11n,62p,225b,299s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\mbluu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-0600.pk> <C:\Users\mbluu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
-0\tcrm0800.pk><C:/Users/mbluu/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmbx12.pfb><C:/Users/mbluu/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmex10.pfb><C:/Users/mbluu/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/mbluu/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/mbluu/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/mbluu/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/mblu
-u/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Use
-rs/mbluu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-<C:/Users/mbluu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb><C:/Users/mbluu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmti10.pfb>
-Output written on main_test.pdf (3 pages, 257277 bytes).
+ <C:\Users\mbluu\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\tcrm0600.pk> <C:\Users\mbluu\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\tcrm0800.pk><C:/Users/mbluu/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/mbluu/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/mbluu/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/mbluu/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/m
+bluu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:
+/Users/mbluu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12
+.pfb><C:/Users/mbluu/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmr17.pfb><C:/Users/mbluu/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmr8.pfb><C:/Users/mbluu/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr9.pfb><C:/Users/mbluu/AppData/Local/Programs/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mbluu/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on main_test.pdf (3 pages, 269337 bytes).
 PDF statistics:
- 73 PDF objects out of 1000 (max. 8388607)
+ 78 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
